@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReddyJaswanth
+- 👋 Hi, I’m Jaswanth Reddy T
 - 👀 I’m interested in contributing to the open source organizations.
 - 🌱 I’m currently learning---> Full stack web development and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Frontend Development.
