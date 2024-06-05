@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **JudyAI**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS.**
+- 🌱 I’m currently learning **ReactJS.**
 
-- 👯 I’m looking to collaborate on **Frontend Applications**
+- 👯 I’m Seeking Internships on **Frontend Development**
 
 - 📫 How to reach me **reddyjaswanth751@gmail.com**
 
